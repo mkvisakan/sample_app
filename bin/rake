@@ -1,4 +1,4 @@
-#!/home/mkvisakan/.rvm/rubies/ruby-2.0.0-p353/bin/ruby
+#!/usr/bin/ruby
 require_relative '../config/boot'
 require 'rake'
 Rake.application.run
