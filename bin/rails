@@ -1,4 +1,4 @@
-#!/usr/bin/ruby1.9.3
+#!/home/mkvisakan/.rvm/rubies/ruby-2.0.0-p353/bin/ruby
 APP_PATH = File.expand_path('../../config/application',  __FILE__)
 require_relative '../config/boot'
 require 'rails/commands'
